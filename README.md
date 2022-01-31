@@ -1,4 +1,4 @@
-Hi, I’m Marcelus. I'm a High school student interested in computer sceince. So far I've worked on apps and games in unity and android studio using C# and Java and I've messed around in python a little. But I want to expand my programming knowledge and I'm teaching myself CSS, js, & html so I can get into web desing. Follow me if you're interested in following my journey and feel free to contact me if you want.
+Hi, I’m Marcelus. I'm a High school student interested in computer sceince. So far I've worked on apps and games in unity and android studio using C# and Java and I've messed around in python a little. But I want to expand my programming knowledge and I'm teaching myself CSS, js, & html so I can get into web design. Follow me if you're interested in following my journey and feel free to contact me if you want.
 
 SOCIALS
  - Instagram: https://www.instagram.com/mebsport/
