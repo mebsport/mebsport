@@ -41,5 +41,5 @@ Marcelus' GitHub Stats
 
 [website]: marcelusbrown.com
 [twitter]: https://twitter.com/marcelusebrown
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
+[youtube]: https://youtube.com/
+[instagram]: https://instagram.com/mebsport
