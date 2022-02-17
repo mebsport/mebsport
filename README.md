@@ -33,7 +33,7 @@
 
 ---
 
-Marcelus' GitHub Stats
+My GitHub Stats
 
 <img align="left" alt="mebsport's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mebsport&show_icons=true&hide_border=false&theme=github_dark" />
 
