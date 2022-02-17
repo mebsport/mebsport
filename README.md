@@ -10,23 +10,29 @@
 
 <!-- Website -->
 
-[![website](./img/website.svg)](https://marcelusbrown.com)
-&nbsp;&nbsp;
+[<img align="left" alt="marcelusbrown.com" width="30px" source="./img/website.svg"/>][website]
+
+<!-- [![website](./img/website.svg)](https://marcelusbrown.com) -->
+
+<!-- &nbsp;&nbsp; -->
 
 <!-- YouTube -->
 
-[![website](./img/youtube.svg)](https://www.youtube.com/channel/UCAfLIonq6STwupVN8KY40oA)
-&nbsp;&nbsp;
+[<img align="left" alt="YouTube" width="30px" source="./img/youtube.svg"/>][youtube]
+
+<!-- [![website](./img/youtube.svg)](https://www.youtube.com/channel/UCAfLIonq6STwupVN8KY40oA) -->
 
 <!-- Twitter -->
 
-[![website](./img/twitter.svg)](https://twitter.com/marcelusebrown)
-&nbsp;&nbsp;
+[<img align="left" alt="Twitter" width="30px" source="./img/twitter.svg"/>][twitter]
+
+<!-- [![website](./img/twitter.svg)](https://twitter.com/marcelusebrown) -->
 
 <!-- Instagram -->
 
-[![website](./img/instagram.svg)](https://instagram.com/mebsport)
-&nbsp;&nbsp;
+[<img align="left" alt="Instagram" width="30px" source="./img/instagram.svg"/>][instagram]
+
+<!-- [![website](./img/instagram.svg)](https://instagram.com/mebsport) -->
 
 <br />
 <br />
