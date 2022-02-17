@@ -24,7 +24,7 @@
 
 <!-- Twitter -->
 
-[<img align="left" alt="Twitter" width="30px" source="./img/twitter.svg"/>][twitter]
+[<img align="left" alt="Twitter" width="30px" src="./img/twitter.svg"/>][twitter]
 
 <!-- [![website](./img/twitter.svg)](https://twitter.com/marcelusebrown) -->
 
