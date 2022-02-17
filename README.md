@@ -10,7 +10,7 @@
 
 <!-- Website -->
 
-[<img align="left" alt="marcelusbrown.com" width="30px" source="./img/website.svg"/>][website]
+[<img align="left" alt="marcelusbrown.com" width="30px" src="./img/website.svg"/>][website]
 
 <!-- [![website](./img/website.svg)](https://marcelusbrown.com) -->
 
@@ -18,7 +18,7 @@
 
 <!-- YouTube -->
 
-[<img align="left" alt="YouTube" width="30px" source="./img/youtube.svg"/>][youtube]
+[<img align="left" alt="YouTube" width="30px" src="./img/youtube.svg"/>][youtube]
 
 <!-- [![website](./img/youtube.svg)](https://www.youtube.com/channel/UCAfLIonq6STwupVN8KY40oA) -->
 
@@ -30,9 +30,9 @@
 
 <!-- Instagram -->
 
-[<img align="left" alt="Instagram" width="30px" source="./img/instagram.svg"/>][instagram]
+[<img align="left" alt="Instagram" width="30px" src="./img/instagram.svg"/>][instagram]
 
-[![website](./img/instagram.svg)](https://instagram.com/mebsport)
+<!-- [![website](./img/instagram.svg)](https://instagram.com/mebsport) -->
 
 <br />
 <br />
