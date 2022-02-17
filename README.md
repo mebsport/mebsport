@@ -32,7 +32,7 @@
 
 [<img align="left" alt="Instagram" width="30px" source="./img/instagram.svg"/>][instagram]
 
-<!-- [![website](./img/instagram.svg)](https://instagram.com/mebsport) -->
+[![website](./img/instagram.svg)](https://instagram.com/mebsport)
 
 <br />
 <br />
