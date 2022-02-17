@@ -15,7 +15,7 @@
 
 <!-- YouTube -->
 
-[![website](./img/youtube.svg)](https://youtube.com/)
+[![website](./img/youtube.svg)](https://www.youtube.com/channel/UCAfLIonq6STwupVN8KY40oA)
 &nbsp;&nbsp;
 
 <!-- Twitter -->
@@ -41,5 +41,5 @@ Marcelus' GitHub Stats
 
 [website]: marcelusbrown.com
 [twitter]: https://twitter.com/marcelusebrown
-[youtube]: https://youtube.com/
+[youtube]: https://www.youtube.com/channel/UCAfLIonq6STwupVN8KY40oA
 [instagram]: https://instagram.com/mebsport
