@@ -8,31 +8,12 @@
 
 ### Connect with me:
 
-<!-- Website -->
+<!-- Social Media & Website -->
 
 [<img align="left" alt="marcelusbrown.com" width="30px" src="./img/website.svg"/>][website]
-
-<!-- [![website](./img/website.svg)](https://marcelusbrown.com) -->
-
-<!-- &nbsp;&nbsp; -->
-
-<!-- YouTube -->
-
 [<img align="left" alt="YouTube" width="30px" src="./img/youtube.svg"/>][youtube]
-
-<!-- [![website](./img/youtube.svg)](https://www.youtube.com/channel/UCAfLIonq6STwupVN8KY40oA) -->
-
-<!-- Twitter -->
-
 [<img align="left" alt="Twitter" width="30px" src="./img/twitter.svg"/>][twitter]
-
-<!-- [![website](./img/twitter.svg)](https://twitter.com/marcelusebrown) -->
-
-<!-- Instagram -->
-
 [<img align="left" alt="Instagram" width="30px" src="./img/instagram.svg"/>][instagram]
-
-<!-- [![website](./img/instagram.svg)](https://instagram.com/mebsport) -->
 
 <br />
 <br />
