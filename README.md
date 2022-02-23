@@ -1,6 +1,6 @@
 # Hi there, I'm Marcelus...
 
-## I'm a Developer, Designer, Photographer, and a Student!
+## I'm a Developer, Designer, Photographer, and a Student.
 
 - 📝 I’m currently learning react and working in visual studio.
 - 🤝 I’m looking to work together with other developers.
