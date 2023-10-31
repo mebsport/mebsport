@@ -5,7 +5,7 @@
 - 📝 I’m currently learning React and working in Visual Studio.
 - 🤝 I’m looking to work together with other developers.
 - ⚡ Fun fact: I am into everything online. Content creation, coding, etc.
-- If you want to check out my photogtaphy visit this link: [marcelus.captures](https://www.marcelus.photography/)
+- If you want to check out my photogtaphy visit this link: [Marcelus Captures](https://www.marcelus.photography/)
 
 ### Connect with me:
 
