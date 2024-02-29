@@ -25,9 +25,9 @@
 
 My GitHub Stats
 
-<img align="left" alt="mebsport's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mebsport&show_icons=true&hide_border=false&theme=github_dark" />
+<img align="left" alt="mebsport's GitHub Stats" src="github-readme-stats-fork-mu.vercel.app/api?username=mebsport&show_icons=true&hide_border=false&theme=github_dark" />
 
-<img align="left" alt = "mebsport's Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mebsport&langs_count=5&theme=github_dark" />
+<img align="left" alt = "mebsport's Languages" src="github-readme-stats-fork-mu.vercel.app/api/top-langs/?username=mebsport&langs_count=5&theme=github_dark" />
 
 [website]: https://marcelusbrown.com
 [twitter]: https://twitter.com/marcelusebrown
